@@ -26,7 +26,7 @@
   },
   "devDependencies": {},
   "files": [
-    "lib/",
+    "config/",
     "README.md",
     "CHANGELOG.md",
     "LICENSE",
